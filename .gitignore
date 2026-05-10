@@ -42,4 +42,7 @@ next-env.d.ts
 
 docs
 public/references
-
+CLAUDE.md
+AGENTS.md
+**/CLAUDE.md
+**/AGENTS.md
